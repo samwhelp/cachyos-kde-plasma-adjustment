@@ -23,4 +23,4 @@
 | Scripts |
 | ---- |
 | [CachyOS Kde Plasma Config](https://github.com/samwhelp/cachyos-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
-| [Tool Config](https://github.com/samwhelp/cachyos-adjustment/tree/main/prototype/main/tool-config) |
+| [Tool Config](https://github.com/samwhelp/cachyos-adjustment/tree/main/prototype/main/tool-config/part) |
