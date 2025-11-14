@@ -45,3 +45,10 @@
 | [Kde Neon Adjustment](https://samwhelp.github.io/kde-neon-adjustment/) | [GitHub](https://github.com/samwhelp/kde-neon-adjustment) |
 | [Kde Plasma Adjustment](https://samwhelp.github.io/kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/kde-plasma-adjustment) |
 | [Kubuntu Adjustment](https://samwhelp.github.io/kubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/kubuntu-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
